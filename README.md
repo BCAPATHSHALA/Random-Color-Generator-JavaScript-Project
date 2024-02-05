@@ -33,7 +33,7 @@ This project is a simple JavaScript project that generates random colors in both
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-color-generator-javascript-project.git
+   git clone https://github.com/your-username/Random-Color-Generator-JavaScript-Project.git
 
    ```
 
