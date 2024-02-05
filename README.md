@@ -19,7 +19,7 @@ This project is a simple JavaScript project that generates random colors in both
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Stopwatch-JavaScript-Project/master/Stopwatch%20Javascript%20Project.png)
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Random-Color-Generator-JavaScript-Project/master/RANDOM%20COLOR%20GENERATOR%20JAVASCRIPT%20PROJECT.png)
 
 ## Features
 
