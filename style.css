@@ -127,12 +127,20 @@ body {
   body {
     height: 120vh;
   }
+  .container {
+    width: 100vw;
+  }
   .container h1 {
     width: 220px;
     font-size: 1em;
   }
   .container .colorBox {
-    width: 50%;
+    width: 100vw;
     flex-direction: column;
+    justify-content: center;
+  }
+  .container .colorBox > .box {
+    width: 90%;
+    align-self: center;
   }
 }
