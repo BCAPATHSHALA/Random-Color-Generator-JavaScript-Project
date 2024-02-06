@@ -42,7 +42,7 @@ This project is a simple JavaScript project that generates random colors in both
 
 ## How it Works
 
-The random color generator leverages the `setInterval` method to generate the color every millisecond. The `clearInterval` method is used to pause the random color to generate. The generated color is displayed on the interface by manipulating the DOM.
+The random color generator leverages the `setInterval` method to generate the color every second. The `clearInterval` method is used to pause the random color to generate. The generated color is displayed on the interface by manipulating the DOM.
 
 ## Technologies Used
 
